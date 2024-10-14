@@ -10,7 +10,7 @@ import re
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Set your VirusTotal API key here
-API_KEY = 'e3627894a47f1f3b9568c6b68a4102a53edd81b99bebb21dec86646015b542d5'
+API_KEY = 'Virustotal API Key'
 
 # VirusTotal URL for file scanning/reporting
 VIRUSTOTAL_URL = 'https://www.virustotal.com/vtapi/v2/file/report'
